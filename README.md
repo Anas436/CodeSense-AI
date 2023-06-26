@@ -1,14 +1,12 @@
-# CodeSense-AI
+# CodeSenseAI
 
 
 
-This is a Python application that allows you to load a PDF and ask questions about it using natural language. The application uses a LLM to generate a response about your PDF. The LLM will not answer questions unrelated to the document.
+This is a Python application that allows you to Revolutionizing Code Translation, Debugging, and Explanation within a few seconds. The application uses a Streamlit and OpenAI API to generate a response about your Code.
 
 ## How it works
 
-The application reads the PDF and splits the text into smaller chunks that can be then fed into a LLM. It uses OpenAI embeddings to create vector representations of the chunks. The application then finds the chunks that are semantically similar to the question that the user asked and feeds those chunks to the LLM to generate a response.
-
-The application uses Streamlit to create the GUI and Langchain to deal with the LLM.
+CodeSenseAI is an advanced Python application designed to enhance developer productivity by harnessing the power of artificial intelligence. With its intelligent code translation, debugging, and enlightenment capabilities, CodeSenseAI revolutionizes the way developers work with code. The application leverages the cutting-edge ChatGPT API and seamlessly integrates with the user-friendly Streamlit framework.
 
 
 ## Installation
