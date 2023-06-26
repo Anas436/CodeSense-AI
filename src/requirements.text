@@ -1,0 +1,7 @@
+
+# Required Dependencies
+streamlit
+streamlit-ace
+openai
+
+
