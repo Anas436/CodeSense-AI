@@ -4,7 +4,6 @@
 
 This is a Python application that allows you to Revolutionizing Code Translation, Debugging, and Explanation within a few seconds. The application uses a Streamlit and OpenAI API to generate a response about your Code.
 
-![](https://github.com/Anas436/CodeSense-AI/blob/main/demo.gif)
 
 ## How it works
 
